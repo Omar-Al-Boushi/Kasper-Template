@@ -843,7 +843,7 @@ header .container .form i {
 .quote {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/Images/L5.jpg);
+  background-image: url(../Images/L5.jpg);
   background-size: cover;
   text-align: center;
   color: white;
@@ -978,7 +978,7 @@ header .container .form i {
 /* Start Subscribe */
 .subscribe {
   padding: var(--main-padding) 0;
-  background-image: url(/Images/subscribe.jpg);
+  background-image: url(../Images/subscribe.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: white;
@@ -1155,7 +1155,7 @@ header .container .form i {
 footer {
   padding-top: 50px;
   padding-bottom: 50px;
-  background-image: url("../images/subscribe.jpg");
+  background-image: url(../Images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
